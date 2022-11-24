@@ -13,7 +13,7 @@ int main() {
 	setlocale(LC_ALL, "rus");
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	/*Fraction f1(3, 5);
+	Fraction f1(3, 5);
 	Fraction f2(4, 7);
 	Fraction f3;
 	Fraction f4(8, 13);
@@ -30,13 +30,9 @@ int main() {
 	f3 * 15;
 	f3.Print(); cout << endl;
 	f4 = ~f3;
-	f4.Print();	cout << endl;*/
+	f4.Print();	cout << endl;
 
-	Time t1(12, 23, 34);
-	Time t2(5, 23, 1);
-	Time t3;
-	t3 = t1 + t2;
-	t3.print(); cout << endl;
+
 
 	
 	return 0;
