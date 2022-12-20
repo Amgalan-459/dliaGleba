@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 using namespace std;
-
+//Albert pohel na fig
 
 void lin() {
     for (int i = 0; i < 50; i++)
